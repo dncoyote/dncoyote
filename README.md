@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Bilal Ahmed</h1> 
 <h3 align="center">👨‍💻 Backend Developer</h3>
 
-- 🔭 I’m currently working on **Research paper based on mixed reality interaction.**
+- 🔭 I’m currently working on **.**
 
 - 🌱 I’m currently learning **Frontend, Machine Learning**
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/dncoyote?tab=repositories)
 
-- 💬 Ask me about **Computer Vision and Robotics**
+- 💬 Ask me about ****
 
 - 📫 How to reach me **bilal.athaha@gmail.com**
 
