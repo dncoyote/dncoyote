@@ -1,4 +1,6 @@
-<img align="justify" alt="GIF" src="https://github.com/dncoyote/dncoyote/blob/main/intro.gif?raw=true"/>
+<div align="center">
+  <img alt="GIF" src="https://github.com/dncoyote/dncoyote/blob/main/intro.gif?raw=true" />
+</div>
 
 Hi, I'm [Bilal Ahmed](https:///), a passionate self-taught full stack web developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
 
