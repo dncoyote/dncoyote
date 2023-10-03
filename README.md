@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="GIF" src="https://github.com/dncoyote/dncoyote/blob/main/intro1.gif?raw=true" />
+  <img alt="GIF" src="https://github.com/dncoyote/dncoyote/blob/main/intro2.gif?raw=true" />
 </div>
 
 Hey there, I'm [Bilal Ahmed](https://github.com/dncoyote), a self-taught software engineer hailing from India. I'm all about tech and love diving into different techy stuff. My gig is turning cool ideas into sleek and user-friendly software.
