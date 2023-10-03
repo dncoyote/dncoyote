@@ -2,7 +2,7 @@
   <img alt="GIF" src="https://github.com/dncoyote/dncoyote/blob/main/intro.gif?raw=true" />
 </div>
 
-Hey there, I'm [Bilal Ahmed](https://github.com/dncoyote), a self-taught web wizard hailing from India. I'm all about tech and love diving into different techy stuff. My gig is turning cool ideas into sleek and user-friendly software.
+Hey there, I'm [Bilal Ahmed](https://github.com/dncoyote), a self-taught software engineer hailing from India. I'm all about tech and love diving into different techy stuff. My gig is turning cool ideas into sleek and user-friendly software.
 
 I'm also all-in on open source. It's super cool how we can team up and make awesome tech together!
 
