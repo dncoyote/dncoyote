@@ -1,11 +1,14 @@
-Hi, I'm [Bilal Ahmed](https:///), a passionate self-taught full stack web developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+<div align="center">
+  <img alt="GIF" src="https://github.com/dncoyote/dncoyote/blob/main/intro.gif?raw=true" />
+</div>
 
-i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
+Hey there, I'm [Bilal Ahmed](https://github.com/dncoyote), a self-taught web wizard hailing from India. I'm all about tech and love diving into different techy stuff. My gig is turning cool ideas into sleek and user-friendly software.
 
-  <img align="right" alt="GIF" src="https://github.com/dncoyote/dncoyote/blob/main/intro.gif?raw=true" width="500" height="320" />
+I'm also all-in on open source. It's super cool how we can team up and make awesome tech together!
+
   
-- 💼 any freelance work? do reach, [email](mailto:bilal.athaha@gmail.com) :)
-- 💬 ask me about anything, i am happy to help;
+- 💼 Got a project in mind or need a hand with something tech-related? Hit me up at [Email](mailto:bilal.athaha@gmail.com) 😎
+- 💬 Wanna talk tech or have questions? Don't be shy; I'm here to chat and help out!
 
 **languages and tools:**
 
