@@ -1,8 +1,13 @@
+<p  align="right"><img src="https://visitor-badge.laobi.icu/badge?page_id=dncoyote" alt="visitor badge"/></p>
 <div align="center">
   <img alt="GIF" src="https://github.com/dncoyote/dncoyote/blob/main/intro3.gif?raw=true" />
 </div>
 
-Hey there, I'm [Bilal Ahmed](https://github.com/dncoyote), a self-taught software engineer hailing from India. I'm all about tech and love diving into different techy stuff. My gig is turning cool ideas into sleek and user-friendly software.
+<h1 align="center">Hi 👋, I'm Bilal Ahmed</h1>
+
+<h3 align="center">Maker and breaker of stuff.🤖</h3>
+
+Hey there, I'm a software engineer hailing from India. I'm all about tech and love diving into different techy stuff. My gig is turning cool ideas into sleek and user-friendly software.
 
 I'm also all-in on open source. It's super cool how we can team up and make awesome tech together!
 
