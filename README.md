@@ -13,7 +13,7 @@ I'm also all-in on open source. It's super cool how we can team up and make awes
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=java,spring,maven,js,html,css,react,py,mongodb,mysql,postgres,git,github,docker,postman,blender,ps" />
   </a>
 </p>
 
