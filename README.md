@@ -20,6 +20,6 @@ I'm also a strong advocate for open source collaboration. It's incredible how we
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,maven,js,html,css,react,py,mongodb,mysql,postgres,git,github,docker,postman,blender,ps" />
+    <img src="https://skillicons.dev/icons?i=java,kotlin,spring,maven,js,html,css,react,py,mongodb,mysql,postgres,git,github,docker,postman,blender,ps" />
   </a>
 </p>
