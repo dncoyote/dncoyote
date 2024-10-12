@@ -3,9 +3,9 @@
   <img alt="GIF" src="https://github.com/dncoyote/dncoyote/blob/main/intro3.gif?raw=true" />
 </div>
 
-<!--<h1 align="center">Maker and breaker of stuff.🤖</h1>-->
+<h1 align="center">Maker and breaker of stuff.🤖</h1>
 
-**Check out my developer portfolio**: [dev.dncoyote.com]([https://bilal-ahmed-seven.vercel.app/](https://dev.dncoyote.com/))
+**Check out my developer portfolio**: [dev.dncoyote.com]((https://dev.dncoyote.com/))
 
 <!-- <p align="center">
   <a href="https://skillicons.dev">
