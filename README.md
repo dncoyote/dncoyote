@@ -5,7 +5,7 @@
 
 <h1 align="center">Maker and breaker of stuff.🤖</h1>
 
-**Check out my developer portfolio**: [dev.dncoyote.com]((https://dev.dncoyote.com/))
+**Check out my developer portfolio**: [dev.dncoyote.com](https://dev.dncoyote.com/)
 
 <!-- <p align="center">
   <a href="https://skillicons.dev">
